@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Amy Ying Lin 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Aspiring statiscian'
 
 # Status emoji
 status:
